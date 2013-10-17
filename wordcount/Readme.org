@@ -1,0 +1,5 @@
+* Readme
+
+To compile: =lein javac=
+
+To run: =java -cp $(lein classpath) pycon.storm.Topology=
